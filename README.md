@@ -1,2 +1,2 @@
 # macOS-LaunchDaemons
-A collection of LaunchDaemons and Finder Quick Actions
+A collection of LaunchDaemons, Finder Quick Actions and other assorted tomfoolery
